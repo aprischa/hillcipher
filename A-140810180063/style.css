@@ -1,0 +1,40 @@
+.list_item {
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    margin: 5px 15px 2px;
+    padding: 2px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.expand_main {
+    margin: 15px 25px;
+}
+.expand {
+    border: 1px solid;
+    color: #000;
+    font-size: 12px;
+    outline: 0;
+    cursor: pointer;
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    font-weight:bold;
+}
+
+.loding {
+    border: 1px solid;
+    color: #333;
+    font-size: 12px;
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    outline: 0;
+    font-weight:bold;
+}
+.loding_txt {
+    background-position: left;
+    background-repeat: no-repeat;
+    border: 0;
+    display: inline-block;
+    height: 16px;
+    padding-left: 20px;
+}
